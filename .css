@@ -1,0 +1,76 @@
+/*App list*/
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background:grey;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.contact{
+  border:1.5px solid white;
+  background-color:red;
+  color:white;
+  border-radius:14px;
+  width:200px;
+  text-align:center;
+}
+.contact img{
+  border-radius:100000000000px;
+}
+.contact  .button{
+  border-radius:1000px;
+  background-color:lightgreen;
+}
+
+/*message gui*/
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background:grey;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.message{
+  padding:10px;
+  border:1.5px solid white;
+  background-color:red;
+  color:white;
+  border-radius:14px;
+  width:200px;
+}
+
+.other{
+  text-align: left;
+  background:lightgray;
+  width:100px;
+  border-radius:30px;
+  border-bottom-left-radius: 0px;
+  padding:4px;
+}
+.me{
+  text-align: right;
+  background:blue;
+  width:100px;
+  border-radius:30px;
+  border-bottom-right-radius: 0px;
+  padding:4px;
+  margin-left:6em;
+}
+
+.chat{
+  padding:10px;
+  border:1.5px solid white;
+  background-color:red;
+  color:white;
+  border-radius:14px;
+  width:180px;
+  height:4px;
